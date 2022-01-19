@@ -1,0 +1,6 @@
+[net]
+type = drive
+scope = drive
+root_folder_id = 1CWU6OQLoU1OvwAl7pvb2GSq9cjDt81s9
+token = {"access_token":"ya29.A0ARrdaM8EmAIpImRAOnOtT7Yw_Wabnxig5doDdf48FXi-FIXrAWIKMR5lztstCGyQHDba4NXfJnlqcQFaXG9yqm9_8kqWQDJr3Afh4nU4rJ_GdsBxH0-IaucwWHZhWv-qOXif_aCE-y8KGsotzAfqGNsl4d7V","token_type":"Bearer","refresh_token":"1//0dK8u7568awwPCgYIARAAGA0SNwF-L9IrKe0fqQYkEk5SC0lWuewMlI86_4wvZGCuyy48RufuWMxXQpOxP_9ulpEQW4HnpmDw_k0","expiry":"2022-01-16T16:39:34.5609629+05:30"}
+team_drive =
